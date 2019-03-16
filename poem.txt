@@ -5,4 +5,5 @@ red
 green
 yellow
 indigo
+white
 these are the colors of rainbow
